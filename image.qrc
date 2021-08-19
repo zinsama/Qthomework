@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>image/bomb_blue.png</file>
+        <file>image/bomb_red.png</file>
+        <file>image/chessboard.png</file>
+        <file>image/dilei_blue.png</file>
+        <file>image/dilei_red.png</file>
+        <file>image/flag_blue.png</file>
+        <file>image/flag_red.png</file>
+        <file>image/gongbing_blue.png</file>
+        <file>image/gongbing_red.png</file>
+        <file>image/junzhang_blue.png</file>
+        <file>image/junzhang_red.png</file>
+        <file>image/lianzhang_blue.png</file>
+        <file>image/lianzhang_red.png</file>
+        <file>image/lvzhang_blue.png</file>
+        <file>image/lvzhang_red.png</file>
+        <file>image/paizhang_blue.png</file>
+        <file>image/paizhang_red.png</file>
+        <file>image/shizhang_blue.png</file>
+        <file>image/shizhang_red.png</file>
+        <file>image/siling_blue.png</file>
+        <file>image/siling_red.png</file>
+        <file>image/tuanzhang_blue.png</file>
+        <file>image/tuanzhang_red.png</file>
+        <file>image/yingzhang_blue.png</file>
+        <file>image/yingzhang_red.png</file>
+        <file>image/empty_camp.png</file>
+        <file>image/empty_plate.png</file>
+        <file>image/placeholder_empty.png</file>
+        <file>image/placeholder_unopenned.png</file>
+    </qresource>
+</RCC>
